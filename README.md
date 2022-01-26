@@ -8,7 +8,7 @@
   
   - Focus on Network Engineering
 
-- Gymnasium Amstetten    Sept 2013 - June 2018
+- **Gymnasium Amstetten**    Sept 2013 - June 2018
 
 ---
 
