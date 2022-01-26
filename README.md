@@ -22,23 +22,23 @@
 
 ### Work Experience
 
-#### Wieland Austria GesmbH (August 2021)
+#### **Wieland Austria GesmbH (August 2021)**
 
-**Summer Intern**
+Summer Intern
 
 - Handling of industrial machines
 
-#### Landesklinikum Waidhofen/Ybbs (August 20220)
+#### **Landesklinikum Waidhofen/Ybbs (August 20220)**
 
-**Summer Intern**
+Summer Intern
 
 - Workstation setup
 
 - Inventory Management
 
-#### ZF Friedrichshafen AG (August 2019)
+#### **ZF Friedrichshafen AG (August 2019)**
 
-**Summer Intern**
+Summer Intern
 
 - Created backups for industrial machines.
 
