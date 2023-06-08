@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am just a random student how likes to code sometime...<br>- 🔭 I’m currently working on my final year project NYX<br>- 🌱 I’m currently learning and working with C#, Python and MySQL
+I am just a random student how likes to code sometime...<br>- 🌱 I’m currently learning and working with C#, Python and MySQL<br>- 🔭 Doing some hobby projects and maybe trying RUST<br>- 
 
 
 # 💻 Tech Stack:
